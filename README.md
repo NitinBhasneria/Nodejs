@@ -14,3 +14,5 @@ For understanding the basic express.
 - [Passport.authenticate](https://www.reddit.com/r/node/comments/5n6647/how_does_passportjs_actually_work/)
 - [Difference](https://stackoverflow.com/questions/15601703/difference-between-app-use-and-app-get-in-express-js) between app.js vs app.get
 - [Method override](https://dev.to/moz5691/method-override-for-put-and-delete-in-html-3fp2)
+
+- [Body Parser](https://www.npmjs.com/package/body-parser)
